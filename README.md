@@ -78,3 +78,19 @@ Your Password has:
 🤔 Do You want to enter another password (y/n): 
 ```
 
+## ScreenShots 📸
+
+### KALI LINUX
+
+![image](https://github.com/user-attachments/assets/8401dd5b-7733-444f-9936-61b3679eb14f)
+
+### VS CODE
+
+![image](https://github.com/user-attachments/assets/3cd3b048-3cd9-49c3-8159-d099e74ad63d)
+
+### WINDOWS
+
+![image](https://github.com/user-attachments/assets/4a6849ba-8b2d-4b97-abdc-529c7cc949fc)
+
+
+
